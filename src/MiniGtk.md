@@ -12,7 +12,7 @@
 I would like to generously **Thank** the _**Julia development Team**_, for their awesome work, in the development of the **Gtk Package**
 
 ### GObjects (et al.)
-below are the Gtk objects, besides their frequency of appearance 
+below are the Gtk objects, besides their frequency of appearance
 
 `GObject` _(3111)_<br />
 `Gtk` _(2953)_<br />
